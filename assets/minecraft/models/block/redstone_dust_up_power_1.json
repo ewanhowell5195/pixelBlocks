@@ -1,1 +1,1 @@
-{"parent":"block/redstone_dust_up","textures":{"line":"block/redstone_dust_line0_power_1"}}
+{"parent":"block/redstone_dust_up","textures":{"line":{"sprite":"block/redstone_dust_line1_power_1","force_translucent":true}}}
